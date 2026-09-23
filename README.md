@@ -1,10 +1,10 @@
 # Secure Software Practices
 
-Course project materials focused on secure software development practices and technical communication.
+Course project materials focused on secure software development, risk awareness, and technical communication.
 
 ## Project purpose
 
-This repository contains documentation related to secure software practices. It is useful as supporting evidence of security awareness alongside application-development and data projects.
+This repository documents secure software practices and the reasoning behind technical controls. It provides supporting evidence of security awareness alongside application-development and data projects.
 
 ## Contents
 
@@ -19,7 +19,7 @@ This repository contains documentation related to secure software practices. It 
 
 ## Portfolio relevance
 
-Although this is not a primary analytics project, secure development knowledge supports responsible work with applications, databases, and user information.
+This is supporting work rather than a primary analytics project. Security awareness is relevant when working with applications, databases, credentials, and user information.
 
 ## Author
 
