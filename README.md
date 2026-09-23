@@ -1,14 +1,20 @@
 # Secure Software Practices
 
-Course project materials focused on secure software development, risk awareness, and technical communication.
+Course materials focused on secure software development, risk awareness, and technical communication.
+
+---
 
 ## Project purpose
 
 This repository documents secure software practices and the reasoning behind technical controls. It provides supporting evidence of security awareness alongside application-development and data projects.
 
+---
+
 ## Contents
 
 - `practices-for-secure-software.docx` — secure software practices project document
+
+---
 
 ## Topics represented
 
@@ -17,10 +23,15 @@ This repository documents secure software practices and the reasoning behind tec
 - Defensive software practices
 - Communicating technical controls and tradeoffs
 
+---
+
 ## Portfolio relevance
 
-This is supporting work rather than a primary analytics project. Security awareness is relevant when working with applications, databases, credentials, and user information.
+Supporting work rather than a primary analytics project. Security awareness matters when working with applications, databases, credentials, and user information.
+
+---
 
 ## Author
 
-Ahmed Ahmed — [GitHub](https://github.com/ahmed306758-droid) · [Portfolio](https://ahmed306758-droid.github.io/http-ahmed306758-droid.github.io/)
+**Ahmed Ahmed**  
+[GitHub](https://github.com/ahmed306758-droid) · [Portfolio](https://ahmed306758-droid.github.io/ahmedporfolio/)
